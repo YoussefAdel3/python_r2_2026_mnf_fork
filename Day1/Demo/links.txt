@@ -78,3 +78,7 @@ README.md ==========> file (Markdown language)
    =================> Run
 markUP : tag ===> text
 Markdown : text ==>styletag
+
+
+=============> File .gitignore   --------> .git
+         ----> path files that you don't want to uploaded on github
