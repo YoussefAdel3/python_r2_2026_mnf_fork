@@ -62,3 +62,9 @@ clone from repo : git clone repolink
 
 
 
+================================================= gitHub Pages 
+            ----> gitHub Actions ---------> Deploy project
+            conditions : repo public 
+            index ----> path .git
+
+            ------------------->deploy ====> updates ---> yes
