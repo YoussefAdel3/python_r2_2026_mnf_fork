@@ -1,0 +1,3 @@
+1-https://medium.com/%40abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534
+2-https://learn.microsoft.com/en-us/azure/devops/repos/git/create-branch?view=azure-devops&source=recommendations&tabs=browser
+3-https://www.geeksforgeeks.org/git/how-to-naming-conventions-for-git-branches/?utm_source=chatgpt.com
