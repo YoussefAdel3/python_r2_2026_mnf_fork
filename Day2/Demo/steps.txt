@@ -32,7 +32,34 @@ git pull master
            git add .
            git commit
 --------> no conflict
-git push  git push origin feature/navbar
+git push  git push origin feature/navbar   ====> navbar (updated all code in master)
+
+
+=====================> Update master ===================>
+                        9:pm 
+
+git switch master 
+git status (add , commit)   > git push origin master
+git  pull origin master
+-------> conflict  (solve )
+           git add .
+           git commit
+--------> no conflict
+git push  git push origin master   ====> master (updated )
+
+
+> navbar in master
+git pull origin feature/navbar 
+
+-------> conflict  (solve )
+           git add .
+           git commit
+--------> no conflict
+git push  git push origin master   ====> master (updated  with navabar)
+
+
+> marge slider in master ----> 
+------------------------> repeat sam steps that made with merge navbar in master
 
 
 
