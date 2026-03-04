@@ -9,7 +9,17 @@
 :root{
 --main-color:gray;
 }
-
+header section section{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 3px;
+}
+header section section p{
+    text-align: center;
+    color: brown;
+    padding: 2px;
+}
 nav ul li {
     display: flex;
     justify-content: space-around;
@@ -23,4 +33,8 @@ nav ul li a{
     text-decoration: none;
     color: brown;
     padding: 2px;
+}
+
+nav header{
+    display: flex;
 }
