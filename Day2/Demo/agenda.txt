@@ -1,5 +1,20 @@
 ==========> Day2
 -- Branches
+   -- create branch
+   -- switch betweeb Branches
+   -- list branches (local || remote)
+   -- delete branch (local || remote )
+   -- merge local || remote
+   -- pull request
+      -- without conflicts   ---> change in currect  (login take all changes in master)
+      pull master in login =====> current : login  , incomming : master
+      -- with conflicts 
+-- Stashing
+   -- create stash
+   -- list
+   -- drop specific stash
+   -- clear stash
+   -- show stash files
+
 -- Fork
 -- Organization
--- Stashing
