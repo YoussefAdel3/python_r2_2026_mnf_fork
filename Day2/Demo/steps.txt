@@ -1,0 +1,39 @@
+============> Merge  Between Branches 
+
+new branches ---> Master
+
+
+switch Master        switch navbar 
+merge navbar         merge master
+
+
+
+master ---------> main branch
+navbar ---> errores (end master)
+navbar <--- master  (correct)
+
+
+----> Local    (merge)  ---> same person woner repo
+
+merge master in navbar
+git swicth navbar
+git merge master
+
+
+
+--- Remote    (pull)   team 
+
+switch navbar
+git status (add , commit)
+git push origin feature/navbar
+
+git pull master 
+-------> conflict  (solve )
+           git add .
+           git commit
+--------> no conflict
+git push  git push origin feature/navbar
+
+
+
+
